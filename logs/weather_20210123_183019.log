@@ -1,0 +1,5 @@
+2021-30-23 18:30:19 - root - INFO - weather data collection started
+2021-30-23 18:30:23 - root - INFO - completed dataframe manipulation
+2021-30-23 18:30:23 - root - INFO - writing to database , user - root , database - weather , table - weather_data
+2021-30-23 18:30:23 - root - INFO - wriritng to database successful
+2021-30-23 18:30:23 - root - INFO - connection closed to database

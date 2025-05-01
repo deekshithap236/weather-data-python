@@ -1,0 +1,34 @@
+city,lat,lng,country,iso2,state,capital,population,population_proper
+Mumbai,18.987807,72.836447,India,IN,Maharashtra,admin,18978000,12691836
+Delhi,28.651952,77.231495,India,IN,Delhi,admin,15926000,7633213
+Kolkata,22.562627,88.363044,India,IN,West Bengal,admin,14787000,4631392
+Chennai,13.084622,80.248357,India,IN,Tamil Nadu,admin,7163000,4328063
+Bengaluru,12.977063,77.587106,India,IN,Karnataka,admin,6787000,5104047
+Hyderabad,17.384052,78.456355,India,IN,Andhra Pradesh,admin,6376000,3597816
+Lucknow,26.839281,80.923133,India,IN,Uttar Pradesh,admin,2695000,2472011
+Patna,25.615379,85.101027,India,IN,Bihar,admin,2158000,1599920
+Bhopal,23.254688,77.402892,India,IN,Madhya Pradesh,admin,1727000,1599914
+Srinagar,34.085652,74.805553,India,IN,Jammu and Kashmir,admin,1140000,975857
+Ranchi,23.347768,85.338564,India,IN,Jharkhand,admin,1044000,846454
+Chandigarh,30.736292,76.788398,India,IN,Chandigarh,admin,979000,914371
+Trivandrum,8.485498,76.949238,India,IN,Kerala,admin,954000,784153
+Raipur,21.233333,81.633333,India,IN,Chhattisgarh,admin,875000,679995
+Bhubaneswar,20.272411,85.833853,India,IN,Odisha,admin,844000,762243
+Dehra Dun,30.324427,78.033922,India,IN,Uttarakhand,admin,714223,578420
+Shillong,25.573987,91.896807,India,IN,Meghalaya,admin,375527,354325
+Aizawl,23.736701,92.714596,India,IN,Mizoram,admin,283021,265331
+Imphal,24.808053,93.944203,India,IN,Manipur,admin,264986,223523
+Puducherry,11.933812,79.829792,India,IN,Puducherry,admin,227411,227411
+Agartala,23.836049,91.279386,India,IN,Tripura,admin,203264,203264
+Shimla,31.104423,77.166623,India,IN,Himachal Pradesh,admin,173503,173503
+Port Blair,11.666667,92.75,India,IN,Andaman and Nicobar Islands,admin,127562,112050
+Kohima,25.674673,94.110988,India,IN,Nagaland,admin,92113,92113
+Gangtok,27.325739,88.612155,India,IN,Sikkim,admin,77900,30700
+Panjim,15.498289,73.824541,India,IN,Goa,admin,65586,65586
+Itanagar,27.102349,93.692047,India,IN,Arunachal Pradesh,admin,44971,44971
+Daman,20.414315,72.83236,India,IN,Daman  and Diu,admin,39737,39737
+Silvassa,20.273855,72.996728,India,IN,Dadra and Nagar Haveli,admin,27359,27359
+Dispur,26.135638,91.800688,India,IN,Assam,admin,16140,16140
+Kavaratti,10.566667,72.616667,India,IN,Lakshadweep,admin,10688,10688
+Jaipur,26.913312,75.787872,India,IN,Rajasthan,admin,,
+Gandhinagar,23.216667,72.683333,India,IN,Gujarat,admin,,

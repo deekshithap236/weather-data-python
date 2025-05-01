@@ -1,0 +1,8 @@
+input_path = "E:\\python\\projects\\inputs\\in.csv"
+output_path = "E:\\python\\projects\\outputs\\"
+log_dir = "E:\\python\\projects\\logs\\"
+api_key = "6533301a6327446564bb67ba5ea33ff2"
+base_weather_url =  "http://api.openweathermap.org/data/2.5/weather?"
+root_password = "aadarsh"
+database = "weather"
+table_name = "weather_data"

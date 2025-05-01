@@ -1,1 +1,4 @@
-# weather-data-python
+# Overview
+Weather Data is collected from openweathermap api and ingest into Mysql Db
+
+
